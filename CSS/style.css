@@ -1,0 +1,54 @@
+nav .navbar-nav.mr-auto.mt-2 .nav-item .nav-link{
+    color: #ffffff;
+}
+.barra{
+    padding: 0 80px 0 80px;
+}
+.blanco{
+    color: white;
+    border: none;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.bloque-2{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.centrado-cartas2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+
+}
+img{
+    margin: 0;
+    padding: 0;
+}
+    
+.centrado-cartas{
+    padding-right: 125px;
+    padding-left: 125px;
+}
+
+.boton{
+    width: 150px;
+    margin:0 auto;
+    display:block;
+}
+.boton:hover{
+    background-color: blue;
+    color: white;
+}
+.card-title{
+    text-align: center;
+}
+.bloque-3{
+    background-color: #212529;
+    color: white;
+    padding: 40px 150px 40px 150px;
+}
